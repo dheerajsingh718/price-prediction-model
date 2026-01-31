@@ -29,3 +29,5 @@ logs/
 *.xlsx
 *.csv
 *.parquet
+
+!merged.xlsx
