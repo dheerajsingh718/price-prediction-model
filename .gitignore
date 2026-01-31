@@ -1,0 +1,31 @@
+# Ignore everything by default
+*
+
+# Allow directories
+!*/
+
+# Allow specific folders
+!notebooks/
+!src/
+
+# Allow specific notebooks
+!notebooks/data_aggr.ipynb
+!notebooks/data_aggr_improved.ipynb
+!notebooks/EDA.ipynb
+
+# Allow specific source files
+!src/fix_normalize_function.py
+!src/fix_validate_function.py
+
+# Allow root markdown files
+!.gitignore
+!DATA_AGGREGATION_ROADMAP.md
+!IMPROVEMENTS_SUMMARY.md
+
+# Explicitly ignore common junk
+.ipynb_checkpoints/
+datasets/
+logs/
+*.xlsx
+*.csv
+*.parquet
