@@ -9,9 +9,9 @@
 !src/
 
 # Allow specific notebooks
-!notebooks/data_aggr.ipynb
-!notebooks/data_aggr_improved.ipynb
-!notebooks/EDA.ipynb
+!notebooks/01_data_ingestion.ipynb
+!notebooks/02_eda.ipynb
+!notebooks/03_model_training.ipynb
 
 # Allow specific source files
 !src/fix_normalize_function.py
@@ -31,3 +31,6 @@ logs/
 *.parquet
 
 !merged.xlsx
+!datasets/
+datasets/*
+!datasets/eda_cleaned.csv
