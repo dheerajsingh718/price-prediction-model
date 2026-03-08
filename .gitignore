@@ -1,5 +1,5 @@
-# Ignore everything by default
-*
+# # Ignore everything by default
+# *
 
 # Allow directories
 !*/

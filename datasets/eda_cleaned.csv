@@ -1,4 +1,4 @@
-date,total,month,week,quarter,is_weekend,total:10_days_rolling,total:30_days_rolling,total:50_days_rolling,is_closed,is_suspicious_zero,store_open,weekly_total_diff,day_of_week,month_name,week_of_year,is_holiday,days_to_next_holiday,lag_1,lag_7,lag_14
+date,total,month,week,quarter,is_weekend,total_10_days_rolling,total_30_days_rolling,total_50_days_rolling,is_closed,is_suspicious_zero,store_open,weekly_total_diff,day_of_week,month_name,week_of_year,is_holiday,days_to_next_holiday,lag_1,lag_7,lag_14
 2022-12-22,1126.0,12,51,4,0,383.2,292.96666666666664,257.12,False,False,1,901.0,Thursday,December,51,0,3,605.0,225.0,116.0
 2022-12-23,1266.0,12,51,4,0,475.1,329.3,276.7,False,False,1,761.0,Friday,December,51,0,2,1126.0,505.0,280.0
 2022-12-24,1470.0,12,51,4,1,581.7,369.8333333333333,300.4,False,False,1,720.0,Saturday,December,51,0,1,1266.0,750.0,335.0
